@@ -1,7 +1,7 @@
 # Lenovo Legion Advanced BIOS SREP Configuration
 
-> > [!WARNING]
-> > The Advanced BIOS menu can brick your system, **use at your own risk**
+> [!WARNING]
+> The Advanced BIOS menu can brick your system, **use at your own risk**
 
 The files in here are precisely what got me into Advanced BIOS when booting from a usb containing
 these files on it specifically (which I just copy-pasted from my Linux environment, should work that
