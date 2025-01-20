@@ -13,4 +13,7 @@ unusable UI as other SREP configurations/bundles did. If you know that some elem
 are suboptimal or unnecessary, feel free to submit pull requests or even just drop an issue
 informing me of such and I will happily modify the files and build the resulting image accordingly.
 
+> [!NOTE]
+> For a bootable ISO you can burn in whatever way you do that (I use Linux and am competent with the terminal so I use `dd if=/dev/sdX of=/path/to/iso.iso` to burn ISOs to flashdrives, try balena-etcher or rufus if you are not comfortable with such) [check the releases](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios/releases/tag/v0.0.1)
+
 Tested On: - Lenovo Legion Pro 5 16irx9
