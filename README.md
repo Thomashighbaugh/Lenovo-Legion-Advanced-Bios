@@ -16,6 +16,8 @@ informing me of such and I will happily modify the files and build the resulting
 > [!NOTE]
 > For a bootable ISO you can burn in whatever way you do that (I use Linux and am competent with the terminal so I use `dd if=/dev/sdX of=/path/to/iso.iso` to burn ISOs to flashdrives, try balena-etcher or rufus if you are not comfortable with such) [check the releases](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios/releases/tag/v0.0.1)
 
-Tested On: - Lenovo Legion Pro 5 16irx9, most recent BIOS version as of Janurary 2025 (also worked on August 2024 BIOS) 
+Tested On:
+   - Lenovo Legion Pro 5 16irx9, most recent BIOS version as of Janurary 2025 (also worked on August 2024 BIOS) 
+   - Lenovo IdeaPad s145 
 
 **If these settings work on your model, drop an issue so I can add them to the README for others with your model to know they worked (or didn't work).**
