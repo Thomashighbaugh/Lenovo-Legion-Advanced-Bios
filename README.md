@@ -16,8 +16,17 @@ informing me of such and I will happily modify the files and build the resulting
 > [!NOTE]
 > For a bootable ISO you can burn in whatever way you do that (I use Linux and am competent with the terminal so I use `dd if=/dev/sdX of=/path/to/iso.iso` to burn ISOs to flashdrives, try balena-etcher or rufus if you are not comfortable with such) [check the releases](https://github.com/Thomashighbaugh/Lenovo-Legion-Advanced-Bios/releases/tag/v0.0.1)
 
-Tested On:
-   - Lenovo Legion Pro 5 16irx9, most recent BIOS version as of Janurary 2025 (also worked on August 2024 BIOS) 
-   - Lenovo IdeaPad s145 
+## Tested On:
 
-**If these settings work on your model, drop an issue so I can add them to the README for others with your model to know they worked (or didn't work).**
+| Model                              | CPU        | GPU      | BIOS Version  |
+| ---------------------------------- | ---------- | -------- | ------------- |
+| Lenovo Legion Pro 5 16irx9         | i9-14900HX | RTX4070  | BIOS N0CN29WW |
+| Lenovo Legion Pro 7 16IRX9H        |            |          |               |
+| Lenovo Legion Pro 7i Gen 8 16IRX8H |            |          | BIOS KWCN48WW |
+| Lenovo Legion 5 15ARH05H           | R7 4800H   | RTX 2060 | BIOS FSCN28WW |
+| Lenovo IdeaPad Pro 5               | 185H       | RTX 4050 | BIOS MECN67WW |
+| Lenovo IdeaPad s145                |            |          |               |
+
+**If these settings work on your model, drop an issue so I can add them to the README for others with your model to know they worked (or didn't work).** Working through your debugging process or even relaying what experiences you have with undervolting using Advanced BIOS vis-a-vis SREP here is also welcome and will likely be extremely useful to others running into issues in the future so feel free to fill the issues up with anything related to this process so the community can benefit... and so can you if you are like me and would otherwise forget. 
+
+### A huge thank you to those that have already confirmed their model works!
