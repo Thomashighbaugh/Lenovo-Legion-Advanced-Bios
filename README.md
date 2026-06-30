@@ -33,7 +33,7 @@ informing me of such and I will happily modify the files and build the resulting
 
 | Model                              | CPU          | GPU        | BIOS Version(s)  |
 | ---------------------------------- | ------------ | ---------- | ---------------- |
-| Lenovo Legion Pro 5 16irx9         | i9-14900HX   | RTX 4070   | N0CN29WW         |
+| Lenovo Legion Pro 5 16irx9         | i9-14900HX   | RTX 4070   | N0CN29WW, N0CN31WW |
 | Lenovo Legion Pro 7 16IRX9H        |              |            | KWCN48WW         |
 | Lenovo Legion Pro 7i 16IRX9H       |              |            | N2CN27WW         |
 | Lenovo Legion Pro 7i Gen 8 16IRX8H | i9-13900HX   | RTX 4080   | KWCN48WW, KWCN50WW |
@@ -51,6 +51,7 @@ informing me of such and I will happily modify the files and build the resulting
 | Lenovo Legion S7 16ARHA7           | R9 6900HX    | Radeon 6800S | KFCN40WW        |
 | Lenovo Legion 5 15ITH6H            |              |              |                  |
 | Lenovo Legion 5 15IRX10 (83LY)     |              |              | QNCN33WW         |
+| Lenovo Legion 5 Pro 16ACH6H (82JQ)  | R7 5800H     | RTX 3060     | GKCN65WW         |
 
 
 
