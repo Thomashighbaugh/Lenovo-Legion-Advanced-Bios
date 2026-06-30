@@ -46,11 +46,13 @@ informing me of such and I will happily modify the files and build the resulting
 | Lenovo LoQ 15IAX9e                 |              |            | Q8CN12WW, Q8CN13WW, Q8CN17WW |
 | Lenovo Legion Slim 5 14APH8        | R7 7840HS    | RTX 4050/4060 | MACN23WW, MACN24WW, MACN33WW |
 | Lenovo Slim 14 14IRP8              | 13900H       | RTX 4060   |                  |
-| Lenovo ThinkBook 16p G5 IRX        |              |            | P5CN28WW         |
+| Lenovo ThinkBook 16p G5 IRX        | i7-14650HX   | RTX 4060   | P5CN28WW         |
 | Lenovo Legion Pro 5i 16irx9        | i7-14650HX   | RTX 4060   | N0CN24WW         |
 | Lenovo Legion S7 16ARHA7           | R9 6900HX    | Radeon 6800S | KFCN40WW        |
 | Lenovo Legion 5 15ITH6H            |              |              |                  |
 | Lenovo Legion 5 15IRX10 (83LY)     |              |              | QNCN33WW         |
+| Lenovo Legion 5 16IRX9              |              |              | NMCN27WW         |
+| Lenovo Legion 5 17ACH6H             | R7 5800H     | RTX 3060     | GKCN65WW         |
 | Lenovo Legion 5 Pro 16ACH6H (82JQ)  | R7 5800H     | RTX 3060     | GKCN65WW         |
 
 
