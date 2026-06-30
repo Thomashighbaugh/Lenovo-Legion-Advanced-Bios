@@ -44,7 +44,7 @@ informing me of such and I will happily modify the files and build the resulting
 | Lenovo IdeaPad Pro 5               | 185H         | RTX 4050   | MECN67WW         |
 | Lenovo IdeaPad s145                |              |            |                  | 
 | Lenovo LoQ 15IAX9e                 |              |            | Q8CN12WW, Q8CN13WW, Q8CN17WW |
-| Lenovo Legion Slim 5 14APH8        |              | RTX 4050   | MACN33WW         |
+| Lenovo Legion Slim 5 14APH8        | R7 7840HS    | RTX 4050/4060 | MACN23WW, MACN24WW, MACN33WW |
 | Lenovo Slim 14 14IRP8              | 13900H       | RTX 4060   |                  |
 | Lenovo ThinkBook 16p G5 IRX        |              |            | P5CN28WW         |
 | Lenovo Legion Pro 5i 16irx9        | i7-14650HX   | RTX 4060   | N0CN24WW         |
@@ -71,6 +71,7 @@ informing me of such and I will happily modify the files and build the resulting
 | LOQ 15IAX9E | | | Q8CN21WW+ | Works on Q8CN17WW but not Q8CN21WW |
 | Legion 18IAX10 | 275HX | RTX 5090 | 40WW, 43WW, 48WW | Only RZCN32WW works |
 | Legion Pro 5 82WM 16ARX8 | | | | |
+| Legion Pro 7i 16IRX9H | | | N2CN27WW | Works on N2CN27WW, broken on N2CN28WW+ |
 | Legion Pro 7i 16IAX10H | | | Q7CN38WW | Booted into stock BIOS, no advanced features |
 | LOQ 15ARP9 | R7 7435HS | | PQCN25WW | Doesn't work |
 | Legion Pro 5 16ADR10 / R7000P 16ADR10 | | | RLCN31WW | Doesn't work |
