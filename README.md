@@ -36,7 +36,7 @@ informing me of such and I will happily modify the files and build the resulting
 | Lenovo Legion Pro 5 16irx9         | i9-14900HX   | RTX 4070   | N0CN29WW         |
 | Lenovo Legion Pro 7 16IRX9H        |              |            | KWCN48WW         |
 | Lenovo Legion Pro 7i 16IRX9H       |              |            | N2CN27WW         |
-| Lenovo Legion Pro 7i Gen 8 16IRX8H |              |            | KWCN48WW         |
+| Lenovo Legion Pro 7i Gen 8 16IRX8H | i9-13900HX   | RTX 4080   | KWCN48WW, KWCN50WW |
 | Lenovo Legion 5 15ARH05H           | R7 4800H     | RTX 2060   | FSCN28WW         |
 | Lenovo Legion 5 15ARH05            | R5 4600H     |            |                  |
 | Lenovo Legion 5 15ACH6H           | R7 5800H     | RTX 3060   | GKCN65WW         |
@@ -49,6 +49,8 @@ informing me of such and I will happily modify the files and build the resulting
 | Lenovo ThinkBook 16p G5 IRX        |              |            | P5CN28WW         |
 | Lenovo Legion Pro 5i 16irx9        | i7-14650HX   | RTX 4060   | N0CN24WW         |
 | Lenovo Legion S7 16ARHA7           | R9 6900HX    | Radeon 6800S | KFCN40WW        |
+| Lenovo Legion 5 15ITH6H            |              |              |                  |
+| Lenovo Legion 5 15IRX10 (83LY)     |              |              | QNCN33WW         |
 
 
 
@@ -69,6 +71,8 @@ informing me of such and I will happily modify the files and build the resulting
 | Legion 18IAX10 | 275HX | RTX 5090 | 40WW, 43WW, 48WW | Only RZCN32WW works |
 | Legion Pro 5 82WM 16ARX8 | | | | |
 | Legion Pro 7i 16IAX10H | | | Q7CN38WW | Booted into stock BIOS, no advanced features |
+| LOQ 15ARP9 | R7 7435HS | | PQCN25WW | Doesn't work |
+| Legion Pro 5 16ADR10 / R7000P 16ADR10 | | | RLCN31WW | Doesn't work |
 
 **If these settings work on your model, drop an issue so I can add them to the README for others with your model to know they worked (or didn't work).** Working through your debugging process or even relaying what experiences you have with undervolting using Advanced BIOS vis-a-vis SREP here is also welcome and will likely be extremely useful to others running into issues in the future so feel free to fill the issues up with anything related to this process so the community can benefit... and so can you if you are like me and would otherwise forget. 
 
